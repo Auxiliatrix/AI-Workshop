@@ -49,5 +49,4 @@ public class BooleanDataSet {
 		ret += "}";
 		return ret;
 	}
-
 }
